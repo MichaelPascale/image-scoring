@@ -1,0 +1,1855 @@
+,uniqueID,label,prob
+0,window,window,0.68128455
+1,window,windowsill,0.07327873
+2,window,wall,0.016409494
+3,window,door,0.011277811
+4,window,curtain,0.010492645
+5,window,mantle,0.008236825
+6,window,doorbell,0.0067817234
+7,window,air conditioner,0.004869529
+8,window,awning,0.004498539
+9,window,doorknocker,0.0043082596
+10,window,mold,0.004189646
+11,window,mold,0.004189646
+12,window,gutter,0.0035550075
+13,window,dollhouse,0.003399933
+14,window,handle,0.00332674
+15,window,trapdoor,0.0028630581
+16,window,shutter,0.0026227885
+17,window,vent,0.002535286
+18,window,thermostat,0.0021288334
+19,window,squeegee,0.0019789918
+20,window,dresser,0.0018331925
+21,window,cot,0.0017741192
+22,window,keyhole,0.0017465773
+23,window,doorhandle,0.0016825369
+24,window,windshield,0.0016105638
+25,window,screen,0.0015924744
+26,window,screen,0.0015924744
+27,window,polisher,0.001509805
+28,window,cabinet,0.0015021815
+29,window,nest,0.0014454855
+30,window,stained glass,0.0014331756
+31,window,plastic film,0.0013604382
+32,window,mosquito net,0.0013424566
+33,window,dumbwaiter,0.0013018163
+34,window,glass,0.0012019092
+35,window,photograph,0.0011272988
+36,window,shaker,0.0011051302
+37,window,cuckoo clock,0.001102366
+38,window,frame,0.0010814733
+39,window,piecrust,0.0010532923
+40,window,oven,0.0010104482
+41,window,birdhouse,0.0010048554
+42,window,radiator,0.0009762119
+43,window,thimble,0.00096221984
+44,window,latch,0.00094990013
+45,window,ice,0.00093654956
+46,window,hinge,0.0009286748
+47,window,mail,0.0009055906
+48,window,porthole,0.0008855006
+49,window,cornhusk,0.00085058255
+50,window,rust,0.00080216804
+51,window,doorknob,0.00079783454
+52,window,fan,0.0007926638
+53,window,painting,0.00078826584
+54,window,handkerchief,0.00078576047
+55,window,sheet,0.0007777697
+56,window,rag,0.00075059634
+57,window,chinaware,0.0007445634
+58,window,doormat,0.0007396151
+59,window,slot,0.00070704456
+60,window,staple gun,0.0007019291
+61,window,dryer,0.0006915253
+62,window,palette,0.0006841404
+63,window,washboard,0.00067684613
+64,window,quilt,0.00065685937
+65,window,thumbtack,0.00063932705
+66,window,shears,0.000625818
+67,window,eggshell,0.0006168434
+68,window,trowel,0.000611195
+69,window,lid,0.0005795271
+70,window,stove,0.0005712426
+71,window,stove,0.0005712426
+72,window,tile,0.00056424184
+73,window,doghouse,0.0005618963
+74,window,yoke,0.0005511575
+75,window,saw,0.00053763675
+76,window,counter,0.00052875455
+77,window,wreath,0.00052574964
+78,window,lime,0.00052201556
+79,window,grille,0.00051649805
+80,window,shelf,0.0005079893
+81,window,key,0.0005075061
+82,window,computer screen,0.0005050177
+83,window,doorstop,0.0005033982
+84,window,knob,0.0004998562
+85,window,viewfinder,0.0004948201
+86,window,mitten,0.00046420703
+87,window,basketball hoop,0.00046335693
+88,window,wind chimes,0.0004622932
+89,window,canvas,0.00045859412
+90,window,scaffold,0.00045557588
+91,window,wood,0.0004508707
+92,window,springboard,0.00042253875
+93,window,closet,0.00041251926
+94,window,scraper,0.00040927465
+95,window,rim,0.00040806958
+96,window,pinwheel,0.00039770157
+97,window,inkwell,0.00039183313
+98,window,doily,0.0003897721
+99,window,paint,0.000387679
+100,window,honeypot,0.0003807176
+101,window,refrigerator,0.00037455212
+102,window,gong,0.0003648575
+103,window,seagull,0.00036421992
+104,window,pigeon,0.00036185456
+105,window,duct,0.00035843096
+106,window,lens,0.0003519847
+107,window,magnifier,0.0003498462
+108,window,dartboard,0.00033819512
+109,window,dish,0.00033605454
+110,window,jigsaw puzzle,0.00033240303
+111,window,banner,0.00033172595
+112,window,urn,0.0003315501
+113,window,dashboard,0.00032769368
+114,window,windshield wiper,0.00032739132
+115,window,bonnet,0.00032685473
+116,window,ivy,0.00032178854
+117,window,wrap,0.00032095794
+118,window,mailbox,0.00031825743
+119,window,scarecrow,0.00031770853
+120,window,eggbeater,0.00031652665
+121,window,wooden leg,0.0003129745
+122,window,saltshaker,0.000312604
+123,window,bark,0.00031076052
+124,window,pot,0.00031040507
+125,window,gauze,0.00031031214
+126,window,home plate,0.00030843687
+127,window,rudder,0.00030138792
+128,window,vase,0.00030000455
+129,window,gasket,0.00029963398
+130,window,router,0.0002987751
+131,window,cloak,0.00029807328
+132,window,album,0.00029720357
+133,window,carriage,0.00029632734
+134,window,emerald,0.00029379426
+135,window,sewing machine,0.00029249093
+136,window,bow,0.00029092637
+137,window,bow,0.00029092637
+138,window,bow,0.00029092637
+139,window,plaster cast,0.0002888882
+140,window,gurney,0.00027688578
+141,window,spout,0.0002741631
+142,window,fireplace,0.00026335346
+143,window,arch,0.00026164568
+144,window,wheel,0.00025973978
+145,window,sheath,0.0002568528
+146,window,contact lens,0.00025487147
+147,window,tablet,0.0002509861
+148,window,sifter,0.00025075738
+149,window,bell,0.00024972548
+150,window,computer,0.0002490752
+151,window,stem,0.00024862855
+152,window,dial,0.0002477953
+153,window,boxer shorts,0.00024640685
+154,window,hole,0.00024493365
+155,window,petal,0.00024389407
+156,window,mulberry,0.00024386152
+157,window,peeler,0.00024348688
+158,window,jersey,0.00024332301
+159,window,easel,0.00024148516
+160,window,turkey,0.00023734078
+161,window,chimney,0.00023579987
+162,window,tab,0.00023494376
+163,window,peppermint,0.00023466295
+164,window,folder,0.00023437309
+165,window,thermometer,0.00023305093
+166,window,icemaker,0.00023042325
+167,window,crib,0.00022876183
+168,window,funnel,0.00022861395
+169,window,gramophone,0.00022797298
+170,window,cocoon,0.00021712462
+171,window,paperweight,0.00021509457
+172,window,peacock,0.00021445839
+173,window,chute,0.00021068778
+174,window,music box,0.00021001216
+175,window,railing,0.00020968195
+176,window,dagger,0.00020932351
+177,window,beaker,0.00020867614
+178,window,chair,0.00020851301
+179,window,furnace,0.00020675306
+180,window,retainer,0.0002062729
+181,window,loom,0.00020611442
+182,window,board,0.00020566791
+183,window,icicle,0.0002055977
+184,window,garter,0.00020534414
+185,window,prune,0.00020525798
+186,window,wing,0.00020447688
+187,window,mirror,0.00020259482
+188,window,eye,0.00020170108
+189,window,trough,0.00020057203
+190,window,bench,0.00020022612
+191,window,ottoman,0.0001974376
+192,window,table,0.00019738676
+193,window,wineglass,0.00019720914
+194,window,clasp,0.00019382869
+195,window,car door,0.00019309658
+196,window,mint,0.00019132622
+197,window,generator,0.00019039429
+198,window,penholder,0.00019005795
+199,window,candlestick,0.00018850015
+200,window,paper,0.0001870261
+201,window,jar,0.00018398504
+202,window,peg,0.00018393452
+203,window,television,0.0001835998
+204,window,jug,0.00018129197
+205,window,thread,0.00018085887
+206,window,drawer,0.00017975528
+207,window,lectern,0.00017914089
+208,window,patch,0.00017450981
+209,window,veil,0.00017332258
+210,window,dishrag,0.00016984579
+211,window,blanket,0.00016974572
+212,window,woman,0.00016899979
+213,window,binoculars,0.00016784013
+214,window,chalk,0.00016771212
+215,window,paintbrush,0.00016751006
+216,window,wick,0.00016691718
+217,window,razor blade,0.0001658123
+218,window,orange,0.00016564444
+219,window,ring,0.0001646745
+220,window,ladder,0.00016386238
+221,window,bedpan,0.00016345315
+222,window,skeleton,0.00016340702
+223,window,leek,0.00016243933
+224,window,box,0.0001623105
+225,window,wine cooler,0.0001621963
+226,window,barnacle,0.00016111284
+227,window,spam,0.00016063386
+228,window,clothesline,0.00016009736
+229,window,telegraph,0.00015839825
+230,window,toolbox,0.00015635352
+231,window,water filter,0.00015543176
+232,window,cushion,0.00015496877
+233,window,potholder,0.00015458943
+234,window,remote control,0.00015456171
+235,window,cape,0.00015453312
+236,window,brake,0.00015445768
+237,window,cymbal,0.00015344638
+238,window,broom,0.00015140722
+239,window,pheasant,0.00014949779
+240,window,stereo,0.00014944078
+241,window,bush,0.00014943707
+242,window,flypaper,0.00014940856
+243,window,spool,0.00014908206
+244,window,poster,0.00014788579
+245,window,rattle,0.00014756457
+246,window,bracket,0.00014699656
+247,window,rooster,0.00014686541
+248,window,scaffolding,0.00014602493
+249,window,eyepiece,0.000145849
+250,window,owl,0.00014557387
+251,window,pan,0.00014444899
+252,window,triangle,0.00014383947
+253,window,quad,0.00014103315
+254,window,fence,0.00014097881
+255,window,saddle,0.0001408979
+256,window,saucer,0.00014081354
+257,window,bib,0.0001398121
+258,window,block,0.00013868175
+259,window,hip,0.00013853316
+260,window,pitcher,0.00013848138
+261,window,horseshoe,0.00013680564
+262,window,freezer,0.00013664032
+263,window,racehorse,0.00013621486
+264,window,can,0.00013576588
+265,window,elbow,0.0001347669
+266,window,pallet,0.00013290092
+267,window,man,0.00013260543
+268,window,wax,0.00013258772
+269,window,basketball,0.00013244744
+270,window,bedpost,0.00013229696
+271,window,brush,0.00013217439
+272,window,waterwheel,0.00013182167
+273,window,football,0.00013170631
+274,window,clover,0.00013076689
+275,window,place mat,0.00013051371
+276,window,hedge,0.00013018827
+277,window,flashbulb,0.00012919115
+278,window,snow,0.00012908573
+279,window,snowshoe,0.00012746363
+280,window,shield,0.00012708105
+281,window,parrot,0.00012613395
+282,window,container,0.00012579207
+283,window,iron,0.0001257002
+284,window,mussel,0.00012548557
+285,window,razor,0.0001250438
+286,window,chalkboard,0.00012467205
+287,window,nutcracker,0.00012445229
+288,window,potpourri,0.00012429786
+289,window,tee,0.00012340445
+290,window,cream,0.000122932
+291,window,chime,0.00012253407
+292,window,guardrail,0.00012232436
+293,window,wedge,0.00012223225
+294,window,cork,0.00011961431
+295,window,snowball,0.000119582604
+296,window,granite,0.00011935155
+297,window,first-aid kit,0.000118990596
+298,window,radar,0.000118871496
+299,window,floss,0.00011859341
+300,window,mattress,0.0001177985
+301,window,curb,0.00011776682
+302,window,glove,0.000117494004
+303,window,blinder,0.00011645498
+304,window,dishwashing liquid,0.00011633465
+305,window,hatbox,0.00011553483
+306,window,bolt,0.00011552845
+307,window,hook,0.00011502054
+308,window,hook,0.00011502054
+309,window,grapevine,0.00011401297
+310,window,washcloth,0.000113705246
+311,window,shell,0.00011350914
+312,window,shell,0.00011350914
+313,window,shell,0.00011350914
+314,window,melon,0.000112978436
+315,window,bird,0.00011297585
+316,window,dog,0.00011271563
+317,window,mast,0.00011200712
+318,window,revolving door,0.00011188541
+319,window,moss,0.000111874746
+320,window,chisel,0.00011142265
+321,window,easter egg,0.00011128608
+322,window,radio,0.000111044355
+323,window,gate,0.000110950365
+324,window,beehive,0.00011082409
+325,window,mat,0.00011036866
+326,window,boy,0.00011032026
+327,window,fern,0.00011013273
+328,window,blower,0.00010965168
+329,window,clothes,0.00010929025
+330,window,basket,0.000109037486
+331,window,accordion,0.00010895162
+332,window,torso,0.00010819121
+333,window,nail,0.000107773936
+334,window,workbench,0.0001075936
+335,window,horn,0.00010742034
+336,window,coffee pot,0.00010732408
+337,window,pulley,0.000106315965
+338,window,microwave,0.00010621544
+339,window,shawl,0.000106113584
+340,window,kite,0.00010603549
+341,window,gallows,0.00010603225
+342,window,teapot,0.00010568255
+343,window,magnifying glass,0.00010485192
+344,window,washing machine,0.00010469804
+345,window,bunkbed,0.000104533814
+346,window,chicken wire,0.000104471634
+347,window,clay,0.000104154686
+348,window,thorn,0.00010241912
+349,window,brace,0.00010185748
+350,window,eyedropper,0.00010132461
+351,window,cat,0.00010051999
+352,window,hose,0.00010035275
+353,window,lantern,0.00010005765
+354,window,grate,0.000100010904
+355,window,rearview mirror,9.9859564e-05
+356,window,trailer,9.945184e-05
+357,window,windsock,9.93849e-05
+358,window,cane,9.934852e-05
+359,window,scallion,9.8636505e-05
+360,window,pet food,9.845419e-05
+361,window,pea,9.8427154e-05
+362,window,crystal,9.822573e-05
+363,window,crystal,9.822573e-05
+364,window,coffin,9.76787e-05
+365,window,camera,9.741765e-05
+366,window,camera,9.741765e-05
+367,window,sawhorse,9.7402975e-05
+368,window,sweeper,9.720068e-05
+369,window,quill,9.68149e-05
+370,window,knitting,9.673885e-05
+371,window,gearshift,9.636226e-05
+372,window,sandpaper,9.6090065e-05
+373,window,punch,9.584205e-05
+374,window,punch,9.584205e-05
+375,window,lock,9.51971e-05
+376,window,jewel,9.438154e-05
+377,window,coffeemaker,9.42344e-05
+378,window,clock,9.379882e-05
+379,window,gift,9.3723895e-05
+380,window,slicer,9.3554394e-05
+381,window,hood,9.350142e-05
+382,window,speaker,9.332645e-05
+383,window,valve,9.330652e-05
+384,window,wagon,9.2625436e-05
+385,window,face,9.248914e-05
+386,window,cornucopia,9.108459e-05
+387,window,wheelbarrow,9.094692e-05
+388,window,honeycomb,9.05953e-05
+389,window,gum,9.014112e-05
+390,window,coral,9.013544e-05
+391,window,compass,8.977411e-05
+392,window,gravel,8.936717e-05
+393,window,coop,8.931877e-05
+394,window,souffle,8.919534e-05
+395,window,brick,8.9059344e-05
+396,window,tape,8.854866e-05
+397,window,hand,8.79882e-05
+398,window,bra,8.785454e-05
+399,window,camera lens,8.760121e-05
+400,window,macadamia,8.757048e-05
+401,window,silverware,8.756463e-05
+402,window,fig,8.7515546e-05
+403,window,flag,8.642949e-05
+404,window,spider web,8.613458e-05
+405,window,dart,8.6026055e-05
+406,window,envelope,8.570424e-05
+407,window,kettle,8.516421e-05
+408,window,scissors,8.466505e-05
+409,window,wax paper,8.451194e-05
+410,window,gun,8.410109e-05
+411,window,stirrup,8.4051375e-05
+412,window,reel,8.3004204e-05
+413,window,pistachio,8.283513e-05
+414,window,lampshade,8.259501e-05
+415,window,harp,8.186196e-05
+416,window,horse,8.0936945e-05
+417,window,plant,8.0842525e-05
+418,window,sledgehammer,8.0346304e-05
+419,window,grasshopper,8.023712e-05
+420,window,cannonball,7.983136e-05
+421,window,goalpost,7.959039e-05
+422,window,marmalade,7.935377e-05
+423,window,stretcher,7.931412e-05
+424,window,motherboard,7.898924e-05
+425,window,throne,7.881767e-05
+426,window,hay,7.768368e-05
+427,window,sprinkler,7.713591e-05
+428,window,shovel,7.70837e-05
+429,window,switch,7.681394e-05
+430,window,riser,7.636037e-05
+431,window,velcro,7.616328e-05
+432,window,bookshelf,7.599292e-05
+433,window,scoreboard,7.5838565e-05
+434,window,puppet,7.5808624e-05
+435,window,comb,7.561541e-05
+436,window,bee,7.5609634e-05
+437,window,puck,7.514712e-05
+438,window,cummerbund,7.508609e-05
+439,window,lavender,7.4548385e-05
+440,window,mannequin,7.449963e-05
+441,window,rocking chair,7.424642e-05
+442,window,projector,7.407498e-05
+443,window,notepad,7.286496e-05
+444,window,oyster,7.262866e-05
+445,window,plate,7.242863e-05
+446,window,teacup,7.223975e-05
+447,window,root,7.214928e-05
+448,window,marble,7.204107e-05
+449,window,swan,7.192587e-05
+450,window,tray,7.171013e-05
+451,window,pennant,7.1413524e-05
+452,window,ribbon,7.1337156e-05
+453,window,leech,7.0986556e-05
+454,window,figurine,7.081833e-05
+455,window,coal,7.067785e-05
+456,window,handbrake,7.031535e-05
+457,window,bassinet,6.978651e-05
+458,window,pillow,6.902585e-05
+459,window,wire cutters,6.9005844e-05
+460,window,stool,6.844508e-05
+461,window,stilt,6.836588e-05
+462,window,olive,6.833524e-05
+463,window,raccoon,6.826281e-05
+464,window,wire,6.8166664e-05
+465,window,cross,6.7956746e-05
+466,window,gear,6.769852e-05
+467,window,poppy,6.714632e-05
+468,window,origami,6.710241e-05
+469,window,pine needle,6.690534e-05
+470,window,trumpet,6.660663e-05
+471,window,poodle,6.606801e-05
+472,window,desk,6.5936074e-05
+473,window,tupperware,6.5818844e-05
+474,window,groundhog,6.520818e-05
+475,window,hoe,6.5025975e-05
+476,window,light switch,6.480497e-05
+477,window,slipper,6.46705e-05
+478,window,sock,6.457091e-05
+479,window,loveseat,6.446594e-05
+480,window,crucifix,6.4328866e-05
+481,window,bank,6.407428e-05
+482,window,mouse,6.346564e-05
+483,window,mouse,6.346564e-05
+484,window,walker,6.337625e-05
+485,window,walker,6.337625e-05
+486,window,cleaver,6.314892e-05
+487,window,muff,6.305155e-05
+488,window,gem,6.291064e-05
+489,window,shoehorn,6.257078e-05
+490,window,thumb,6.246156e-05
+491,window,vial,6.224546e-05
+492,window,smoke alarm,6.15454e-05
+493,window,telescope,6.1417464e-05
+494,window,periscope,6.133821e-05
+495,window,blind,6.1299026e-05
+496,window,van,6.111364e-05
+497,window,rock,6.1023136e-05
+498,window,rose,6.09323e-05
+499,window,bed,6.074814e-05
+500,window,modem,6.0658178e-05
+501,window,diamond,6.0499995e-05
+502,window,videogame,6.0465853e-05
+503,window,defibrillator,6.037861e-05
+504,window,apron,6.0372968e-05
+505,window,goblet,6.0294824e-05
+506,window,touchpad,6.0235172e-05
+507,window,cabbage,6.010755e-05
+508,window,twig,5.9876296e-05
+509,window,toy,5.984101e-05
+510,window,treasure,5.94584e-05
+511,window,match,5.9297803e-05
+512,window,sundial,5.9265803e-05
+513,window,rain gauge,5.924783e-05
+514,window,dandelion,5.908161e-05
+515,window,knot,5.883556e-05
+516,window,revolver,5.8753358e-05
+517,window,step stool,5.870452e-05
+518,window,parsley,5.846049e-05
+519,window,pliers,5.803166e-05
+520,window,frog,5.7961417e-05
+521,window,coil,5.751946e-05
+522,window,noisemaker,5.7396283e-05
+523,window,dice,5.7309207e-05
+524,window,toaster oven,5.699689e-05
+525,window,loincloth,5.6974608e-05
+526,window,seismograph,5.6867237e-05
+527,window,piano,5.638209e-05
+528,window,seed,5.6072684e-05
+529,window,licorice,5.576626e-05
+530,window,trigger,5.5403252e-05
+531,window,racket,5.5362158e-05
+532,window,cooler,5.5342414e-05
+533,window,shortbread,5.5285233e-05
+534,window,walnut,5.5159573e-05
+535,window,mop,5.503872e-05
+536,window,axe,5.4850814e-05
+537,window,prism,5.484391e-05
+538,window,fencepost,5.4783482e-05
+539,window,headrest,5.4521104e-05
+540,window,clipper,5.446072e-05
+541,window,clipper,5.446072e-05
+542,window,graffiti,5.4398744e-05
+543,window,rug,5.4038657e-05
+544,window,crow,5.3596246e-05
+545,window,garlic,5.3414693e-05
+546,window,ladle,5.3332027e-05
+547,window,straw,5.3184835e-05
+548,window,straw,5.3184835e-05
+549,window,clam,5.3119344e-05
+550,window,tapestry,5.2029463e-05
+551,window,vegetable,5.194627e-05
+552,window,coleslaw,5.1940922e-05
+553,window,column,5.186578e-05
+554,window,bat,5.1786305e-05
+555,window,bat,5.1786305e-05
+556,window,squirrel,5.156385e-05
+557,window,gargoyle,5.1502906e-05
+558,window,dolly,5.12892e-05
+559,window,sickle,5.1276485e-05
+560,window,jukebox,5.1093728e-05
+561,window,green beans,5.1064206e-05
+562,window,padlock,5.102069e-05
+563,window,headlight,5.0614566e-05
+564,window,ball,5.0612925e-05
+565,window,shoe polish,5.048595e-05
+566,window,crown,5.0298713e-05
+567,window,lamb,5.022413e-05
+568,window,boomerang,5.007052e-05
+569,window,vacuum,4.9839273e-05
+570,window,coin,4.9707596e-05
+571,window,duster,4.966107e-05
+572,window,mousse,4.9615337e-05
+573,window,ruby,4.959131e-05
+574,window,hobbyhorse,4.9260132e-05
+575,window,firewood,4.9130547e-05
+576,window,glue,4.9037397e-05
+577,window,water heater,4.890112e-05
+578,window,scooter,4.858095e-05
+579,window,uniform,4.8471273e-05
+580,window,lemon,4.8328366e-05
+581,window,spider,4.831104e-05
+582,window,basil,4.8272446e-05
+583,window,chive,4.8220452e-05
+584,window,ramp,4.7652396e-05
+585,window,straightjacket,4.754826e-05
+586,window,air pump,4.748645e-05
+587,window,squash,4.7230908e-05
+588,window,patty,4.7203797e-05
+589,window,rolling pin,4.7070378e-05
+590,window,globe,4.7068046e-05
+591,window,kneepad,4.696778e-05
+592,window,cornmeal,4.6887853e-05
+593,window,gauge,4.6809484e-05
+594,window,arrow,4.670247e-05
+595,window,grass,4.651507e-05
+596,window,eagle,4.62817e-05
+597,window,compost,4.6233792e-05
+598,window,cup,4.5919518e-05
+599,window,knitting needle,4.5857116e-05
+600,window,armor,4.5843037e-05
+601,window,tag,4.5796365e-05
+602,window,duck,4.5768335e-05
+603,window,gel,4.5380126e-05
+604,window,hummingbird,4.529149e-05
+605,window,grain,4.526317e-05
+606,window,incubator,4.5248406e-05
+607,window,hail,4.5230114e-05
+608,window,kiwi,4.5139623e-05
+609,window,parfait,4.5113284e-05
+610,window,goose,4.4955832e-05
+611,window,scale,4.482894e-05
+612,window,binder,4.4827313e-05
+613,window,cord,4.4683475e-05
+614,window,possum,4.4542136e-05
+615,window,costume,4.4478213e-05
+616,window,drum,4.4471424e-05
+617,window,book,4.4332446e-05
+618,window,roll,4.4309876e-05
+619,window,knife,4.4215238e-05
+620,window,target,4.397923e-05
+621,window,tambourine,4.380084e-05
+622,window,robe,4.3786553e-05
+623,window,tick,4.349879e-05
+624,window,blender,4.34681e-05
+625,window,camper,4.3335564e-05
+626,window,bug,4.3311185e-05
+627,window,tablecloth,4.3210523e-05
+628,window,cash machine,4.3156324e-05
+629,window,nose,4.2835185e-05
+630,window,ashtray,4.254328e-05
+631,window,clove,4.2444644e-05
+632,window,mashed potato,4.2412674e-05
+633,window,badger,4.2058786e-05
+634,window,cooker,4.1945106e-05
+635,window,clothespin,4.1842584e-05
+636,window,bone,4.1804615e-05
+637,window,garbage truck,4.178923e-05
+638,window,cordon bleu,4.1737294e-05
+639,window,crate,4.1655618e-05
+640,window,snowman,4.15119e-05
+641,window,ginger,4.135771e-05
+642,window,airbag,4.1283234e-05
+643,window,tarp,4.1230353e-05
+644,window,combination lock,4.1223513e-05
+645,window,puffin,4.1138366e-05
+646,window,tooth,4.110025e-05
+647,window,navel,4.107157e-05
+648,window,bin,4.0946106e-05
+649,window,cockatoo,4.0844938e-05
+650,window,saffron,4.081332e-05
+651,window,cucumber,4.0657153e-05
+652,window,heater,4.037039e-05
+653,window,log,4.0170835e-05
+654,window,marker,4.0103467e-05
+655,window,rocking horse,3.9971812e-05
+656,window,breadbox,3.9968076e-05
+657,window,kilt,3.9967545e-05
+658,window,pin,3.9966173e-05
+659,window,exhaust pipe,3.981985e-05
+660,window,metronome,3.9796316e-05
+661,window,chalice,3.9564948e-05
+662,window,hubcap,3.937989e-05
+663,window,satellite,3.9376282e-05
+664,window,egg,3.937621e-05
+665,window,belt,3.9235118e-05
+666,window,tinsel,3.9174694e-05
+667,window,chest,3.89384e-05
+668,window,chest,3.89384e-05
+669,window,cd player,3.887384e-05
+670,window,scallop,3.8795322e-05
+671,window,mousetrap,3.864415e-05
+672,window,toe,3.8483802e-05
+673,window,mallet,3.843267e-05
+674,window,pole,3.8271082e-05
+675,window,buckle,3.7786995e-05
+676,window,dustpan,3.7760336e-05
+677,window,vulture,3.7624173e-05
+678,window,card,3.7444268e-05
+679,window,siren,3.7345126e-05
+680,window,anteater,3.7263937e-05
+681,window,underwear,3.7136648e-05
+682,window,icepick,3.7067934e-05
+683,window,food processor,3.7019676e-05
+684,window,fungus,3.6988902e-05
+685,window,file,3.674791e-05
+686,window,file,3.674791e-05
+687,window,sandal,3.6743848e-05
+688,window,clipboard,3.6625388e-05
+689,window,vise,3.6406207e-05
+690,window,nightshirt,3.6394056e-05
+691,window,dogfood,3.633711e-05
+692,window,grater,3.6235095e-05
+693,window,terrarium,3.6224315e-05
+694,window,mistletoe,3.6203524e-05
+695,window,dishwasher,3.6153288e-05
+696,window,bead,3.6093068e-05
+697,window,sheep,3.5954345e-05
+698,window,swab,3.5951398e-05
+699,window,rhubarb,3.5840414e-05
+700,window,stalagmite,3.579587e-05
+701,window,canister,3.5758065e-05
+702,window,branch,3.5573306e-05
+703,window,hairdryer,3.554658e-05
+704,window,trombone,3.5338708e-05
+705,window,lizard,3.528745e-05
+706,window,juicer,3.5176236e-05
+707,window,juicer,3.5176236e-05
+708,window,crystal ball,3.510211e-05
+709,window,staple,3.5081695e-05
+710,window,mask,3.50512e-05
+711,window,dip,3.505026e-05
+712,window,crank,3.503054e-05
+713,window,flip-flop,3.4991877e-05
+714,window,hammer,3.4941924e-05
+715,window,nail clippers,3.476947e-05
+716,window,videocassette,3.4688524e-05
+717,window,recorder,3.4674238e-05
+718,window,pitchfork,3.4669476e-05
+719,window,rabbit,3.4499943e-05
+720,window,backgammon,3.4460027e-05
+721,window,snowplow,3.4354234e-05
+722,window,sling,3.4281515e-05
+723,window,almond,3.421201e-05
+724,window,garbage,3.4065702e-05
+725,window,helmet,3.4056153e-05
+726,window,whistle,3.398017e-05
+727,window,notebook,3.3947068e-05
+728,window,candelabra,3.394545e-05
+729,window,gourd,3.376284e-05
+730,window,exerciser,3.37434e-05
+731,window,playpen,3.3732074e-05
+732,window,lawnmower,3.3615437e-05
+733,window,blowtorch,3.355554e-05
+734,window,fruit,3.3546134e-05
+735,window,pecan,3.3438177e-05
+736,window,ship,3.3278346e-05
+737,window,ready meal,3.3164164e-05
+738,window,stamp,3.3062166e-05
+739,window,stamp,3.3062166e-05
+740,window,barrel,3.3014396e-05
+741,window,pipe,3.295991e-05
+742,window,pipe,3.295991e-05
+743,window,needle,3.295507e-05
+744,window,daisy,3.2769287e-05
+745,window,gavel,3.2383374e-05
+746,window,flute,3.2311622e-05
+747,window,diaper,3.2309894e-05
+748,window,leaf,3.1918797e-05
+749,window,apple tree,3.1883934e-05
+750,window,flower,3.1878826e-05
+751,window,yo-yo,3.1736014e-05
+752,window,pants,3.172857e-05
+753,window,phone,3.166968e-05
+754,window,soap,3.163038e-05
+755,window,float,3.161084e-05
+756,window,sprouts,3.148664e-05
+757,window,finger,3.131075e-05
+758,window,brooch,3.125609e-05
+759,window,robot,3.120617e-05
+760,window,wine bottle,3.113566e-05
+761,window,pita,3.1110554e-05
+762,window,leg,3.110693e-05
+763,window,kaleidoscope,3.11026e-05
+764,window,sauerkraut,3.107799e-05
+765,window,crayon,3.1028296e-05
+766,window,chaps,3.0895248e-05
+767,window,torch,3.080669e-05
+768,window,stew,3.0777384e-05
+769,window,ticktacktoe,3.0513185e-05
+770,window,teddy bear,3.047555e-05
+771,window,solar panel,3.0438605e-05
+772,window,jam,3.0301724e-05
+773,window,artichoke,3.0286645e-05
+774,window,seal,3.0268453e-05
+775,window,scoop,3.0253215e-05
+776,window,bubble,3.0167474e-05
+777,window,pocket,3.0121706e-05
+778,window,raspberry,3.0103327e-05
+779,window,satellite dish,2.9967841e-05
+780,window,boot,2.9735878e-05
+781,window,pug,2.9699033e-05
+782,window,gravy,2.9624582e-05
+783,window,foam,2.961865e-05
+784,window,acorn,2.9610967e-05
+785,window,faucet,2.950982e-05
+786,window,birdcage,2.9340494e-05
+787,window,camcorder,2.929866e-05
+788,window,turf,2.9228557e-05
+789,window,game,2.9143052e-05
+790,window,french horn,2.9098785e-05
+791,window,engine,2.8904129e-05
+792,window,record,2.8761198e-05
+793,window,mug,2.8753466e-05
+794,window,margarita,2.8729015e-05
+795,window,dalmatian,2.8657047e-05
+796,window,skin,2.8633993e-05
+797,window,feather,2.8622251e-05
+798,window,pincushion,2.8614992e-05
+799,window,trophy,2.8505227e-05
+800,window,stockings,2.8443965e-05
+801,window,chess piece,2.8417175e-05
+802,window,footprint,2.836308e-05
+803,window,yarn,2.8345015e-05
+804,window,gyroscope,2.8326911e-05
+805,window,toast,2.8269265e-05
+806,window,bag,2.8268243e-05
+807,window,tamale,2.8132052e-05
+808,window,sandwich,2.8114566e-05
+809,window,stuffing,2.8112421e-05
+810,window,potpie,2.809098e-05
+811,window,fossil,2.7907057e-05
+812,window,grenade,2.7823084e-05
+813,window,cockroach,2.7729893e-05
+814,window,tumbleweed,2.7718737e-05
+815,window,bagpipe,2.7600507e-05
+816,window,amplifier,2.7490543e-05
+817,window,taffy,2.7485039e-05
+818,window,trap,2.7378355e-05
+819,window,earwig,2.7272657e-05
+820,window,bulletin board,2.727042e-05
+821,window,tripod,2.7186807e-05
+822,window,bandage,2.718297e-05
+823,window,slug,2.6953996e-05
+824,window,drain,2.6915928e-05
+825,window,pickax,2.6838416e-05
+826,window,tennis ball,2.6812528e-05
+827,window,wine,2.6785792e-05
+828,window,duct tape,2.6736383e-05
+829,window,turbine,2.6696078e-05
+830,window,whisk,2.6691241e-05
+831,window,plum,2.6649477e-05
+832,window,hash,2.6624633e-05
+833,window,wand,2.6597276e-05
+834,window,comic book,2.6528016e-05
+835,window,chessboard,2.6491156e-05
+836,window,cannon,2.6326192e-05
+837,window,backdrop,2.6278685e-05
+838,window,arm,2.6253785e-05
+839,window,propeller,2.6195312e-05
+840,window,tea,2.6175834e-05
+841,window,pastry,2.612705e-05
+842,window,grill,2.6044756e-05
+843,window,bathmat,2.5842419e-05
+844,window,soup,2.5804102e-05
+845,window,poinsettia,2.5698988e-05
+846,window,tool,2.5616579e-05
+847,window,cardboard,2.5612913e-05
+848,window,sail,2.55884e-05
+849,window,pothole,2.5529607e-05
+850,window,baseball,2.5470223e-05
+851,window,ski,2.544871e-05
+852,window,statue,2.5401427e-05
+853,window,machine gun,2.5387528e-05
+854,window,boxing gloves,2.5315141e-05
+855,window,bear,2.524378e-05
+856,window,top hat,2.5235837e-05
+857,window,pickle,2.5041027e-05
+858,window,chihuahua,2.50121e-05
+859,window,slide,2.49793e-05
+860,window,cow,2.489359e-05
+861,window,pie,2.4775882e-05
+862,window,matchbox,2.4737727e-05
+863,window,shoe,2.4718343e-05
+864,window,recliner,2.4655059e-05
+865,window,wallpaper,2.4633717e-05
+866,window,pencil sharpener,2.4627374e-05
+867,window,stair,2.4621364e-05
+868,window,rope,2.4598457e-05
+869,window,chainsaw,2.446823e-05
+870,window,mouth,2.4345334e-05
+871,window,shoulder,2.427504e-05
+872,window,brussels sprouts,2.425736e-05
+873,window,splinter,2.4216586e-05
+874,window,moth,2.4157906e-05
+875,window,oatmeal,2.4027719e-05
+876,window,lamp,2.402648e-05
+877,window,wasp,2.402231e-05
+878,window,hawk,2.402112e-05
+879,window,abacus,2.3992226e-05
+880,window,hedgehog,2.3965655e-05
+881,window,anchor,2.3941166e-05
+882,window,barrette,2.392245e-05
+883,window,silicone,2.3897186e-05
+884,window,strap,2.3881194e-05
+885,window,gyro,2.3770583e-05
+886,window,wafer,2.360486e-05
+887,window,harmonica,2.3561408e-05
+888,window,mixer,2.3550803e-05
+889,window,roulette wheel,2.3443468e-05
+890,window,blowgun,2.343685e-05
+891,window,cookie sheet,2.3388442e-05
+892,window,puddle,2.3196255e-05
+893,window,tuning fork,2.312597e-05
+894,window,aluminum foil,2.3113005e-05
+895,window,okra,2.3102823e-05
+896,window,strainer,2.309137e-05
+897,window,radish,2.3057964e-05
+898,window,ram,2.2881364e-05
+899,window,mole,2.2844166e-05
+900,window,filing cabinet,2.2807466e-05
+901,window,scone,2.2803812e-05
+902,window,keyboard,2.2749897e-05
+903,window,mud,2.2725742e-05
+904,window,magnet,2.2671926e-05
+905,window,crowbar,2.2545404e-05
+906,window,tomato,2.2474735e-05
+907,window,butter,2.2435674e-05
+908,window,nut,2.2361552e-05
+909,window,parachute,2.2289798e-05
+910,window,chicken,2.2273563e-05
+911,window,chicken,2.2273563e-05
+912,window,jalapeno,2.2217853e-05
+913,window,fuse,2.2091717e-05
+914,window,blouse,2.1879656e-05
+915,window,chariot,2.1777154e-05
+916,window,cracker,2.174569e-05
+917,window,domino,2.1708105e-05
+918,window,birdbath,2.167021e-05
+919,window,cookie cutter,2.154077e-05
+920,window,sink,2.1519625e-05
+921,window,fishhook,2.1498823e-05
+922,window,organ,2.1449756e-05
+923,window,firecracker,2.1424608e-05
+924,window,foot,2.1417867e-05
+925,window,typewriter,2.13568e-05
+926,window,pepper mill,2.1352604e-05
+927,window,baton,2.1273212e-05
+928,window,baton,2.1273212e-05
+929,window,baton,2.1273212e-05
+930,window,baton,2.1273212e-05
+931,window,christmas card,2.1270575e-05
+932,window,fly,2.1251637e-05
+933,window,hard disk,2.1242478e-05
+934,window,landmine,2.1101221e-05
+935,window,fingerprint,2.107544e-05
+936,window,weed,2.1051977e-05
+937,window,pony,2.0950436e-05
+938,window,wheelchair,2.092771e-05
+939,window,fox,2.0916656e-05
+940,window,yak,2.0912186e-05
+941,window,cardinal,2.0875763e-05
+942,window,bread,2.085308e-05
+943,window,napkin,2.0811874e-05
+944,window,bowl,2.0784462e-05
+945,window,penguin,2.0749369e-05
+946,window,amber,2.074557e-05
+947,window,timer,2.072117e-05
+948,window,soda,2.0707894e-05
+949,window,record player,2.066276e-05
+950,window,blueberry,2.0661617e-05
+951,window,blackberry,2.064645e-05
+952,window,gravestone,2.057753e-05
+953,window,jack,2.0499458e-05
+954,window,money,2.049164e-05
+955,window,laptop,2.0374253e-05
+956,window,battery,2.0370602e-05
+957,window,worm,2.0242709e-05
+958,window,roller,2.0216741e-05
+959,window,tie,2.0197045e-05
+960,window,bison,2.0075833e-05
+961,window,sled,1.9988833e-05
+962,window,doll,1.990627e-05
+963,window,sorbet,1.9900348e-05
+964,window,berry,1.984573e-05
+965,window,ladybug,1.976553e-05
+966,window,pepper,1.9743298e-05
+967,window,pepper,1.9743298e-05
+968,window,panther,1.9647992e-05
+969,window,dumpster,1.9637877e-05
+970,window,bumper,1.955893e-05
+971,window,charcoal,1.9548746e-05
+972,window,grits,1.9463027e-05
+973,window,scuba,1.9336112e-05
+974,window,face mask,1.9094734e-05
+975,window,joystick,1.9046793e-05
+976,window,flour,1.9039746e-05
+977,window,drill,1.897775e-05
+978,window,trident,1.8972934e-05
+979,window,chick,1.8954705e-05
+980,window,petri dish,1.8951776e-05
+981,window,xylophone,1.8824281e-05
+982,window,antenna,1.8821229e-05
+983,window,lemonade,1.8813978e-05
+984,window,cantaloupe,1.8675652e-05
+985,window,sewing kit,1.8669989e-05
+986,window,burner,1.8573946e-05
+987,window,spring roll,1.8444982e-05
+988,window,mouthpiece,1.841152e-05
+989,window,lion,1.8297882e-05
+990,window,scalpel,1.8277757e-05
+991,window,ravioli,1.8265175e-05
+992,window,tape recorder,1.8221817e-05
+993,window,outlet,1.8166364e-05
+994,window,shredder,1.8084153e-05
+995,window,denture,1.7939452e-05
+996,window,tortilla,1.7915241e-05
+997,window,ham,1.7898301e-05
+998,window,cranberry,1.7885812e-05
+999,window,crossbow,1.788032e-05
+1000,window,cream cheese,1.7865457e-05
+1001,window,marijuana,1.7839919e-05
+1002,window,flyswatter,1.7811597e-05
+1003,window,goggles,1.7633187e-05
+1004,window,pelican,1.7628108e-05
+1005,window,boar,1.7552653e-05
+1006,window,toilet,1.7523284e-05
+1007,window,rake,1.750057e-05
+1008,window,scorpion,1.7479153e-05
+1009,window,hoodie,1.7475588e-05
+1010,window,printer,1.7429682e-05
+1011,window,fork,1.7425793e-05
+1012,window,cinnamon,1.7415226e-05
+1013,window,pedal,1.7391096e-05
+1014,window,zipper,1.7365208e-05
+1015,window,orange rind,1.7355043e-05
+1016,window,casserole,1.734988e-05
+1017,window,stomach,1.7302687e-05
+1018,window,noose,1.7278515e-05
+1019,window,stick,1.7130977e-05
+1020,window,highchair,1.7118924e-05
+1021,window,hourglass,1.6766759e-05
+1022,window,tiara,1.674739e-05
+1023,window,powder,1.6701964e-05
+1024,window,sardine,1.6684548e-05
+1025,window,bottle,1.6677612e-05
+1026,window,hearse,1.6568796e-05
+1027,window,girl,1.645598e-05
+1028,window,pearl,1.641019e-05
+1029,window,gold,1.639711e-05
+1030,window,car,1.6365897e-05
+1031,window,onion,1.6311671e-05
+1032,window,can opener,1.6305637e-05
+1033,window,rifle,1.6290094e-05
+1034,window,hair,1.6273078e-05
+1035,window,nightstand,1.6270034e-05
+1036,window,watering can,1.6201906e-05
+1037,window,cap,1.6142003e-05
+1038,window,watch,1.6072725e-05
+1039,window,roadsweeper,1.60447e-05
+1040,window,flask,1.6043168e-05
+1041,window,butterfly,1.603179e-05
+1042,window,phone booth,1.5894808e-05
+1043,window,wreck,1.5871115e-05
+1044,window,pom-pom,1.5832687e-05
+1045,window,spinach,1.578047e-05
+1046,window,bubble wrap,1.5751211e-05
+1047,window,handlebar,1.5715052e-05
+1048,window,paper towel,1.5702048e-05
+1049,window,holster,1.5640624e-05
+1050,window,bull,1.5465068e-05
+1051,window,collar,1.544084e-05
+1052,window,wrench,1.5412243e-05
+1053,window,dumpling,1.539153e-05
+1054,window,fruitcake,1.5336876e-05
+1055,window,rubber band,1.5301172e-05
+1056,window,ice-cream cone,1.527513e-05
+1057,window,arugula,1.51862105e-05
+1058,window,cloud,1.5128331e-05
+1059,window,rosary,1.5124379e-05
+1060,window,lunchbox,1.5108722e-05
+1061,window,lava,1.5100628e-05
+1062,window,corkscrew,1.5058347e-05
+1063,window,pear,1.5057284e-05
+1064,window,lumber,1.5056912e-05
+1065,window,megaphone,1.5048614e-05
+1066,window,jelly bean,1.50463175e-05
+1067,window,towel rack,1.5000814e-05
+1068,window,dreidel,1.490527e-05
+1069,window,cash register,1.4848009e-05
+1070,window,centerpiece,1.4841156e-05
+1071,window,poker,1.4835552e-05
+1072,window,turntable,1.4774559e-05
+1073,window,snail,1.4749303e-05
+1074,window,truck,1.4698163e-05
+1075,window,quiche,1.4631396e-05
+1076,window,boulder,1.4594466e-05
+1077,window,altar,1.4585366e-05
+1078,window,rice,1.4573215e-05
+1079,window,fire alarm,1.4540453e-05
+1080,window,chip,1.452119e-05
+1081,window,pesto,1.4500349e-05
+1082,window,tent,1.44988835e-05
+1083,window,pig,1.44704545e-05
+1084,window,hockey stick,1.4359213e-05
+1085,window,blindfold,1.4340684e-05
+1086,window,spatula,1.4334859e-05
+1087,window,chips,1.4279353e-05
+1088,window,sugar cube,1.4176692e-05
+1089,window,hatchet,1.4104006e-05
+1090,window,turban,1.3994995e-05
+1091,window,jet,1.3991153e-05
+1092,window,hairnet,1.3981469e-05
+1093,window,gingerbread man,1.3959672e-05
+1094,window,headlamp,1.39311305e-05
+1095,window,flagpole,1.3910739e-05
+1096,window,tongs,1.3884101e-05
+1097,window,javelin,1.3875178e-05
+1098,window,payphone,1.3856427e-05
+1099,window,violin,1.3855026e-05
+1100,window,ostrich,1.381655e-05
+1101,window,crab,1.3751061e-05
+1102,window,cleat,1.3649646e-05
+1103,window,button,1.3621739e-05
+1104,window,button,1.3621739e-05
+1105,window,suitcase,1.35647e-05
+1106,window,bus,1.3533947e-05
+1107,window,sponge,1.3464967e-05
+1108,window,couch,1.3451106e-05
+1109,window,candy,1.34442325e-05
+1110,window,praying mantis,1.3438822e-05
+1111,window,lamppost,1.34331585e-05
+1112,window,calf,1.3425884e-05
+1113,window,calf,1.3425884e-05
+1114,window,sticker,1.3400019e-05
+1115,window,crouton,1.3370047e-05
+1116,window,chin,1.322858e-05
+1117,window,toad,1.3170598e-05
+1118,window,cassette,1.3151596e-05
+1119,window,ironing board,1.3130266e-05
+1120,window,t-shirt,1.3114323e-05
+1121,window,gumdrop,1.3039969e-05
+1122,window,pen,1.296945e-05
+1123,window,jackhammer,1.2930424e-05
+1124,window,rocket,1.2864276e-05
+1125,window,watermelon,1.2832809e-05
+1126,window,cigar,1.2825273e-05
+1127,window,coffee filter,1.2824123e-05
+1128,window,teabag,1.28222155e-05
+1129,window,oilcan,1.2803398e-05
+1130,window,wig,1.2732069e-05
+1131,window,crumb,1.2694266e-05
+1132,window,dough,1.2662225e-05
+1133,window,coat,1.2649601e-05
+1134,window,air mattress,1.2612547e-05
+1135,window,handprint,1.2609685e-05
+1136,window,lego,1.2562369e-05
+1137,window,microscope,1.2445271e-05
+1138,window,baseball glove,1.2435092e-05
+1139,window,ant,1.243476e-05
+1140,window,safety pin,1.2387391e-05
+1141,window,tulip,1.2357091e-05
+1142,window,syringe,1.2314246e-05
+1143,window,dragonfly,1.2296009e-05
+1144,window,chipmunk,1.2255923e-05
+1145,window,whip,1.2240599e-05
+1146,window,bullet,1.2231169e-05
+1147,window,ambulance,1.2174659e-05
+1148,window,beet,1.2090287e-05
+1149,window,bowtie,1.2042876e-05
+1150,window,guillotine,1.2035573e-05
+1151,window,swing,1.1919088e-05
+1152,window,bomb,1.1879143e-05
+1153,window,trunk,1.1859041e-05
+1154,window,slime,1.1837413e-05
+1155,window,umbrella,1.1832063e-05
+1156,window,stump,1.17461905e-05
+1157,window,sloth,1.1685699e-05
+1158,window,board game,1.1657426e-05
+1159,window,scrambled egg,1.1637499e-05
+1160,window,sandbag,1.1620929e-05
+1161,window,coat rack,1.1610583e-05
+1162,window,maggot,1.1553191e-05
+1163,window,golf club,1.1508149e-05
+1164,window,deer,1.1475469e-05
+1165,window,bamboo,1.1372774e-05
+1166,window,ratchet,1.1372319e-05
+1167,window,tree,1.1347856e-05
+1168,window,pendulum,1.13419055e-05
+1169,window,glasses,1.1249328e-05
+1170,window,taillight,1.1239763e-05
+1171,window,shaving cream,1.1231705e-05
+1172,window,milk,1.1159934e-05
+1173,window,checkbook,1.1138732e-05
+1174,window,flipper,1.1087732e-05
+1175,window,cellphone,1.1058733e-05
+1176,window,fudge,1.0998949e-05
+1177,window,sofa bed,1.0958054e-05
+1178,window,anvil,1.0953833e-05
+1179,window,eye patch,1.0933794e-05
+1180,window,steering wheel,1.0910026e-05
+1181,window,motorcycle,1.089946e-05
+1182,window,avocado,1.0887201e-05
+1183,window,punching bag,1.0878006e-05
+1184,window,surfboard,1.0797656e-05
+1185,window,hamster,1.0795822e-05
+1186,window,bongo,1.0777327e-05
+1187,window,dynamite,1.07710175e-05
+1188,window,leggings,1.0740184e-05
+1189,window,diskette,1.0719779e-05
+1190,window,keg,1.0690459e-05
+1191,window,stiletto,1.0672816e-05
+1192,window,spoon,1.0668929e-05
+1193,window,honey,1.0601097e-05
+1194,window,spear,1.0580593e-05
+1195,window,suit,1.0568915e-05
+1196,window,sunroof,1.0561519e-05
+1197,window,pillbox,1.0560774e-05
+1198,window,perfume,1.0543525e-05
+1199,window,vest,1.0497512e-05
+1200,window,sea urchin,1.0479429e-05
+1201,window,coverall,1.04767505e-05
+1202,window,mosquito,1.04716555e-05
+1203,window,apple,1.0464269e-05
+1204,window,sarcophagus,1.0463331e-05
+1205,window,seesaw,1.0357833e-05
+1206,window,detonator,1.03324e-05
+1207,window,tomato sauce,1.0323377e-05
+1208,window,cactus,1.03174325e-05
+1209,window,snowsuit,1.0304079e-05
+1210,window,thermos,1.0297792e-05
+1211,window,wolf,1.0288957e-05
+1212,window,knee,1.0256412e-05
+1213,window,peanut,1.0255806e-05
+1214,window,pocketknife,1.0212101e-05
+1215,window,squirt gun,1.02093745e-05
+1216,window,visor,1.0195849e-05
+1217,window,sweater,1.0108173e-05
+1218,window,coconut,1.0097498e-05
+1219,window,calculator,1.0064656e-05
+1220,window,gopher,1.0058764e-05
+1221,window,kazoo,1.0009235e-05
+1222,window,seaweed,9.994984e-06
+1223,window,speedometer,9.987056e-06
+1224,window,flashlight,9.98041e-06
+1225,window,raincoat,9.903857e-06
+1226,window,bulldozer,9.874262e-06
+1227,window,iguana,9.835278e-06
+1228,window,station wagon,9.83284e-06
+1229,window,dress,9.8209375e-06
+1230,window,buoy,9.814178e-06
+1231,window,cufflink,9.804823e-06
+1232,window,pacifier,9.772561e-06
+1233,window,fish,9.766504e-06
+1234,window,towel,9.678734e-06
+1235,window,ketchup,9.631902e-06
+1236,window,champagne,9.609754e-06
+1237,window,salad,9.598323e-06
+1238,window,sonogram,9.598049e-06
+1239,window,outfit,9.594497e-06
+1240,window,brownie,9.589577e-06
+1241,window,playing card,9.58133e-06
+1242,window,train car,9.537553e-06
+1243,window,biscuit,9.52857e-06
+1244,window,sleeping bag,9.525118e-06
+1245,window,fire,9.4937395e-06
+1246,window,tweezers,9.483876e-06
+1247,window,confetti,9.481289e-06
+1248,window,brass knuckles,9.412477e-06
+1249,window,cage,9.392803e-06
+1250,window,chandelier,9.3899735e-06
+1251,window,aardvark,9.363807e-06
+1252,window,antelope,9.3475155e-06
+1253,window,tractor,9.299926e-06
+1254,window,candy cane,9.285216e-06
+1255,window,panda,9.259377e-06
+1256,window,torpedo,9.233998e-06
+1257,window,grape,9.229701e-06
+1258,window,trashcan,9.179088e-06
+1259,window,strawberry,9.130423e-06
+1260,window,teepee,9.079575e-06
+1261,window,zucchini,9.036073e-06
+1262,window,cauliflower,9.0134545e-06
+1263,window,rat,8.939797e-06
+1264,window,turnstile,8.871039e-06
+1265,window,screw,8.86994e-06
+1266,window,filter,8.84067e-06
+1267,window,peach,8.839844e-06
+1268,window,skirt,8.835359e-06
+1269,window,pantyhose,8.772339e-06
+1270,window,bassoon,8.7600165e-06
+1271,window,tiger,8.747544e-06
+1272,window,sword,8.741707e-06
+1273,window,blazer,8.712826e-06
+1274,window,cherry,8.692012e-06
+1275,window,yolk,8.677699e-06
+1276,window,life jacket,8.675746e-06
+1277,window,badge,8.661246e-06
+1278,window,pump,8.628187e-06
+1279,window,ski boots,8.603946e-06
+1280,window,trolley,8.6010095e-06
+1281,window,cart,8.594697e-06
+1282,window,lightbulb,8.568915e-06
+1283,window,kitten,8.5496185e-06
+1284,window,koala,8.507683e-06
+1285,window,pine tree,8.463724e-06
+1286,window,pasta,8.416669e-06
+1287,window,hopscotch,8.399268e-06
+1288,window,reindeer,8.392142e-06
+1289,window,cardigan,8.383822e-06
+1290,window,oar,8.383359e-06
+1291,window,tackle,8.369826e-06
+1292,window,bonsai,8.365772e-06
+1293,window,webcam,8.346933e-06
+1294,window,donkey,8.346137e-06
+1295,window,checkers,8.324627e-06
+1296,window,rattlesnake,8.276513e-06
+1297,window,candle,8.2311735e-06
+1298,window,meat,8.225131e-06
+1299,window,sandbox,8.191736e-06
+1300,window,sewage,8.175207e-06
+1301,window,test tube,8.158695e-06
+1302,window,pulpit,8.149783e-06
+1303,window,tack,8.1002845e-06
+1304,window,caterpillar,8.078668e-06
+1305,window,headset,8.055219e-06
+1306,window,centrifuge,8.043352e-06
+1307,window,ruler,8.018399e-06
+1308,window,sidecar,7.952965e-06
+1309,window,hanger,7.932558e-06
+1310,window,coffee,7.925223e-06
+1311,window,cocktail,7.897956e-06
+1312,window,beaver,7.890217e-06
+1313,window,screwdriver,7.888651e-06
+1314,window,turtle,7.822292e-06
+1315,window,skull,7.806611e-06
+1316,window,tadpole,7.795646e-06
+1317,window,minivan,7.752245e-06
+1318,window,spur,7.747338e-06
+1319,window,bazooka,7.745225e-06
+1320,window,panties,7.7388895e-06
+1321,window,curry,7.732929e-06
+1322,window,pudding,7.726604e-06
+1323,window,undershirt,7.6988445e-06
+1324,window,microphone,7.6876195e-06
+1325,window,paddle,7.669971e-06
+1326,window,egg roll,7.6646475e-06
+1327,window,espresso,7.659898e-06
+1328,window,cornbread,7.607467e-06
+1329,window,cougar,7.5869193e-06
+1330,window,bucket,7.585357e-06
+1331,window,tarantula,7.545703e-06
+1332,window,wallet,7.4859686e-06
+1333,window,pumpkin,7.482086e-06
+1334,window,paper bag,7.4600835e-06
+1335,window,stopwatch,7.457551e-06
+1336,window,hairspray,7.4198533e-06
+1337,window,grapefruit,7.4193154e-06
+1338,window,sailboat,7.3732413e-06
+1339,window,ice pack,7.361129e-06
+1340,window,potato,7.35522e-06
+1341,window,swizzle stick,7.336669e-06
+1342,window,aquarium,7.3274673e-06
+1343,window,coyote,7.317593e-06
+1344,window,goldfish,7.3144533e-06
+1345,window,pencil,7.310771e-06
+1346,window,toilet paper,7.2852695e-06
+1347,window,lighter,7.242348e-06
+1348,window,gas mask,7.2043085e-06
+1349,window,polar bear,7.190224e-06
+1350,window,streetlight,7.166811e-06
+1351,window,corkboard,7.1616864e-06
+1352,window,tank,7.1374816e-06
+1353,window,tank,7.1374816e-06
+1354,window,earring,7.1243976e-06
+1355,window,grinder,7.086518e-06
+1356,window,boat,7.0773594e-06
+1357,window,barbed wire,7.065814e-06
+1358,window,lab coat,7.0311553e-06
+1359,window,football helmet,7.0092897e-06
+1360,window,marshmallow,6.987385e-06
+1361,window,scanner,6.9802054e-06
+1362,window,spacesuit,6.9765315e-06
+1363,window,kayak,6.949174e-06
+1364,window,boa,6.942258e-06
+1365,window,starfish,6.9182015e-06
+1366,window,maple syrup,6.8996205e-06
+1367,window,sombrero,6.8879576e-06
+1368,window,crutch,6.881825e-06
+1369,window,lobster,6.858827e-06
+1370,window,sunflower,6.8579507e-06
+1371,window,hearing aid,6.8416193e-06
+1372,window,kale,6.8353197e-06
+1373,window,soccer ball,6.829455e-06
+1374,window,polygraph,6.8070613e-06
+1375,window,traffic light,6.790074e-06
+1376,window,weather vane,6.786397e-06
+1377,window,mustard,6.7653696e-06
+1378,window,nail polish,6.760197e-06
+1379,window,weasel,6.741938e-06
+1380,window,beetle,6.7143087e-06
+1381,window,wrapping paper,6.7131177e-06
+1382,window,jeans,6.686015e-06
+1383,window,hydrant,6.6787757e-06
+1384,window,steak,6.6783045e-06
+1385,window,snake,6.677591e-06
+1386,window,batter,6.6744715e-06
+1387,window,snorkel,6.666252e-06
+1388,window,crane,6.6521793e-06
+1389,window,spark plug,6.639643e-06
+1390,window,celery,6.62579e-06
+1391,window,toaster,6.623566e-06
+1392,window,whale,6.6086245e-06
+1393,window,chain,6.5985487e-06
+1394,window,electric chair,6.5952895e-06
+1395,window,chinchilla,6.564116e-06
+1396,window,octopus,6.5489844e-06
+1397,window,guacamole,6.5180916e-06
+1398,window,elephant,6.4932e-06
+1399,window,bouquet,6.480036e-06
+1400,window,cookie,6.476045e-06
+1401,window,deodorant,6.462139e-06
+1402,window,shower,6.42419e-06
+1403,window,paperclip,6.382639e-06
+1404,window,cutting board,6.3045386e-06
+1405,window,shorts,6.2955746e-06
+1406,window,ballot box,6.2937734e-06
+1407,window,oil,6.273973e-06
+1408,window,locket,6.2665104e-06
+1409,window,bell pepper,6.210384e-06
+1410,window,ferret,6.1947912e-06
+1411,window,dumbbell,6.134531e-06
+1412,window,candy bar,6.1308933e-06
+1413,window,hairbrush,6.0968196e-06
+1414,window,toothpick,6.066567e-06
+1415,window,asparagus,6.0409675e-06
+1416,window,power line,6.0380653e-06
+1417,window,sequin,6.0346338e-06
+1418,window,laundry basket,6.0178068e-06
+1419,window,chili,6.010947e-06
+1420,window,toucan,5.9779154e-06
+1421,window,broccoli,5.973459e-06
+1422,window,buggy,5.9420277e-06
+1423,window,shower curtain,5.9345975e-06
+1424,window,taco,5.9113368e-06
+1425,window,clarinet,5.9025824e-06
+1426,window,sausage,5.8838564e-06
+1427,window,harness,5.8730698e-06
+1428,window,tree trunk,5.847886e-06
+1429,window,jewelry,5.809154e-06
+1430,window,puppy,5.8049563e-06
+1431,window,mulch,5.731027e-06
+1432,window,map,5.7108073e-06
+1433,window,popcorn,5.6858744e-06
+1434,window,headdress,5.6708095e-06
+1435,window,film,5.6596364e-06
+1436,window,ice cream,5.6452222e-06
+1437,window,lettuce,5.611513e-06
+1438,window,shoelace,5.6021986e-06
+1439,window,carrot,5.5937207e-06
+1440,window,baby,5.5665273e-06
+1441,window,bottle opener,5.555846e-06
+1442,window,enchilada,5.536688e-06
+1443,window,fishbowl,5.533352e-06
+1444,window,cigarette,5.533035e-06
+1445,window,hat,5.519396e-06
+1446,window,swordfish,5.506452e-06
+1447,window,napkin ring,5.4775096e-06
+1448,window,gumball,5.467979e-06
+1449,window,treadmill,5.4273723e-06
+1450,window,aloe,5.400813e-06
+1451,window,slot machine,5.394214e-06
+1452,window,pill,5.3894423e-06
+1453,window,wok,5.355953e-06
+1454,window,headscarf,5.309247e-06
+1455,window,crepe,5.305765e-06
+1456,window,dolphin,5.3041763e-06
+1457,window,shirt,5.288387e-06
+1458,window,parking meter,5.256067e-06
+1459,window,hamburger,5.200097e-06
+1460,window,car seat,5.1897423e-06
+1461,window,seahorse,5.1740667e-06
+1462,window,meat grinder,5.1665324e-06
+1463,window,kebab,5.1033317e-06
+1464,window,porcupine,5.089053e-06
+1465,window,flan,5.0427893e-06
+1466,window,moccasin,5.038165e-06
+1467,window,paper plate,5.0082817e-06
+1468,window,toothpaste,4.9972605e-06
+1469,window,mango,4.9971177e-06
+1470,window,tape measure,4.991583e-06
+1471,window,credit card,4.9764394e-06
+1472,window,platypus,4.9714017e-06
+1473,window,cashew,4.9680275e-06
+1474,window,ink,4.934022e-06
+1475,window,tricycle,4.928482e-06
+1476,window,submarine,4.9279183e-06
+1477,window,whipped cream,4.926537e-06
+1478,window,water fountain,4.914824e-06
+1479,window,hotplate,4.9021473e-06
+1480,window,bacon,4.8910147e-06
+1481,window,cake mix,4.8861007e-06
+1482,window,zebra,4.8727734e-06
+1483,window,pineapple,4.869754e-06
+1484,window,purse,4.8663924e-06
+1485,window,tuxedo,4.8580555e-06
+1486,window,water cooler,4.812129e-06
+1487,window,granola,4.8092757e-06
+1488,window,train,4.8079182e-06
+1489,window,spareribs,4.794127e-06
+1490,window,alligator,4.683965e-06
+1491,window,snowmobile,4.679063e-06
+1492,window,applesauce,4.664298e-06
+1493,window,highlighter,4.6293862e-06
+1494,window,drink,4.5984707e-06
+1495,window,cable,4.5742045e-06
+1496,window,mushroom,4.551455e-06
+1497,window,wheat,4.5456422e-06
+1498,window,guinea pig,4.5339784e-06
+1499,window,telephone pole,4.5281968e-06
+1500,window,slingshot,4.5009865e-06
+1501,window,eggplant,4.4969706e-06
+1502,window,fur coat,4.478379e-06
+1503,window,pocket watch,4.4452236e-06
+1504,window,inhaler,4.4413423e-06
+1505,window,crayfish,4.4396315e-06
+1506,window,llama,4.4161275e-06
+1507,window,orchid,4.371468e-06
+1508,window,duckling,4.3533623e-06
+1509,window,missile,4.3302825e-06
+1510,window,buffet,4.321058e-06
+1511,window,noodle,4.1866037e-06
+1512,window,palm tree,4.178172e-06
+1513,window,camel,4.177925e-06
+1514,window,ear,4.1736e-06
+1515,window,guitar,4.168858e-06
+1516,window,steamroller,4.162494e-06
+1517,window,stroller,4.1556796e-06
+1518,window,whoopee cushion,4.143175e-06
+1519,window,eraser,4.0937966e-06
+1520,window,cotton candy,4.0935233e-06
+1521,window,waffle,4.0727373e-06
+1522,window,baseball bat,4.061497e-06
+1523,window,belt buckle,4.0599243e-06
+1524,window,beer,4.05477e-06
+1525,window,meerkat,4.0170667e-06
+1526,window,snack,4.0150135e-06
+1527,window,lightning bug,4.0003597e-06
+1528,window,macaroni,3.9862844e-06
+1529,window,monkey,3.958742e-06
+1530,window,squid,3.957021e-06
+1531,window,piglet,3.934383e-06
+1532,window,salami,3.928707e-06
+1533,window,road sign,3.927111e-06
+1534,window,meatloaf,3.9249994e-06
+1535,window,toga,3.9207716e-06
+1536,window,tuba,3.9176844e-06
+1537,window,ice cube,3.8833655e-06
+1538,window,pedometer,3.883358e-06
+1539,window,gazelle,3.8815365e-06
+1540,window,moose,3.866632e-06
+1541,window,pizza,3.864605e-06
+1542,window,makeup,3.842056e-06
+1543,window,laser pointer,3.841778e-06
+1544,window,raisin,3.833521e-06
+1545,window,sim card,3.830539e-06
+1546,window,cigarette holder,3.8079056e-06
+1547,window,cement mixer,3.7998886e-06
+1548,window,breakfast,3.79505e-06
+1549,window,eclair,3.7652294e-06
+1550,window,mandolin,3.7596533e-06
+1551,window,corn,3.7257523e-06
+1552,window,net,3.7076045e-06
+1553,window,gorilla,3.6782465e-06
+1554,window,plug,3.6684028e-06
+1555,window,copier,3.6499705e-06
+1556,window,spaghetti,3.6146512e-06
+1557,window,nail file,3.595419e-06
+1558,window,skewer,3.5407509e-06
+1559,window,tortellini,3.53546e-06
+1560,window,cereal,3.5040082e-06
+1561,window,shrimp,3.5003275e-06
+1562,window,coffee table,3.496544e-06
+1563,window,yogurt,3.4781324e-06
+1564,window,manhole,3.4689567e-06
+1565,window,limousine,3.4646453e-06
+1566,window,memory stick,3.461442e-06
+1567,window,baklava,3.4115687e-06
+1568,window,ankle,3.4060552e-06
+1569,window,canoe,3.4057107e-06
+1570,window,lip balm,3.3885856e-06
+1571,window,skunk,3.3688914e-06
+1572,window,christmas tree,3.3515994e-06
+1573,window,french fries,3.3236274e-06
+1574,window,orangutan,3.3144606e-06
+1575,window,swing set,3.2991784e-06
+1576,window,bike,3.2953922e-06
+1577,window,sand,3.2706955e-06
+1578,window,caramel,3.2683195e-06
+1579,window,luggage,3.2165199e-06
+1580,window,wedding cake,3.192743e-06
+1581,window,drumstick,3.1824559e-06
+1582,window,cheese,3.1755192e-06
+1583,window,turtleneck,3.1749985e-06
+1584,window,sundae,3.1694924e-06
+1585,window,bowling ball,3.1399125e-06
+1586,window,hammock,3.138547e-06
+1587,window,bathtub,3.1179861e-06
+1588,window,fire hydrant,3.0970398e-06
+1589,window,fast food,3.0776894e-06
+1590,window,eggnog,3.024564e-06
+1591,window,banana,3.0230358e-06
+1592,window,gondola,3.0219924e-06
+1593,window,juice,2.9905643e-06
+1594,window,mustache,2.9883693e-06
+1595,window,subway,2.985418e-06
+1596,window,leash,2.9495623e-06
+1597,window,roof rack,2.9426674e-06
+1598,window,pretzel,2.939083e-06
+1599,window,burrito,2.926692e-06
+1600,window,fireworks,2.9256819e-06
+1601,window,lip gloss,2.9162886e-06
+1602,window,sweet potato,2.9139146e-06
+1603,window,plunger,2.8806476e-06
+1604,window,rhinoceros,2.8682568e-06
+1605,window,frisbee,2.8403454e-06
+1606,window,cello,2.8302002e-06
+1607,window,string cheese,2.8251843e-06
+1608,window,blowfish,2.8223137e-06
+1609,window,leopard,2.8074094e-06
+1610,window,chickpea,2.7892622e-06
+1611,window,machete,2.765551e-06
+1612,window,meatball,2.7538076e-06
+1613,window,flamingo,2.7151345e-06
+1614,window,nacho,2.6871853e-06
+1615,window,banjo,2.6649818e-06
+1616,window,neck,2.6402565e-06
+1617,window,rack,2.6367738e-06
+1618,window,rack,2.6367738e-06
+1619,window,dirt bike,2.6222092e-06
+1620,window,breadstick,2.6035157e-06
+1621,window,bagel,2.5883598e-06
+1622,window,footbath,2.5878562e-06
+1623,window,school bus,2.5818563e-06
+1624,window,cigarette butt,2.5523414e-06
+1625,window,papaya,2.5493198e-06
+1626,window,chocolate,2.5309914e-06
+1627,window,pajamas,2.5273928e-06
+1628,window,train set,2.5198838e-06
+1629,window,backscratcher,2.5182694e-06
+1630,window,tiramisu,2.513274e-06
+1631,window,alpaca,2.495895e-06
+1632,window,bulletproof vest,2.4934873e-06
+1633,window,pancake,2.4906876e-06
+1634,window,bean,2.4855576e-06
+1635,window,scrabble,2.4734034e-06
+1636,window,insole,2.4635726e-06
+1637,window,sandcastle,2.4496985e-06
+1638,window,jacket,2.398741e-06
+1639,window,pool table,2.3867156e-06
+1640,window,pogo stick,2.373016e-06
+1641,window,bowler hat,2.3711882e-06
+1642,window,lasagna,2.3245493e-06
+1643,window,eyeliner,2.3207306e-06
+1644,window,lifesaver,2.303593e-06
+1645,window,cake,2.2706104e-06
+1646,window,stake,2.2567508e-06
+1647,window,kangaroo,2.2483512e-06
+1648,window,barbell,2.2478966e-06
+1649,window,seafood,2.2257118e-06
+1650,window,soda fountain,2.2144186e-06
+1651,window,breathalyzer,2.1623628e-06
+1652,window,whiteboard,2.1542076e-06
+1653,window,firetruck,2.1480328e-06
+1654,window,cobra,2.1472256e-06
+1655,window,incense,2.1459075e-06
+1656,window,calamari,2.141181e-06
+1657,window,pinecone,2.1305323e-06
+1658,window,balloon,2.128481e-06
+1659,window,saxophone,2.1240687e-06
+1660,window,hula hoop,2.1112244e-06
+1661,window,jellyfish,2.1089102e-06
+1662,window,shower cap,2.0501755e-06
+1663,window,jeep,2.0456055e-06
+1664,window,coaster,2.0452385e-06
+1665,window,vending machine,2.0450514e-06
+1666,window,hot chocolate,2.0257762e-06
+1667,window,catfish,2.0197383e-06
+1668,window,piggy bank,2.0079653e-06
+1669,window,beard,1.9855638e-06
+1670,window,popsicle,1.9838642e-06
+1671,window,volleyball,1.976303e-06
+1672,window,latte,1.974649e-06
+1673,window,pomegranate,1.9574966e-06
+1674,window,handcuff,1.94988e-06
+1675,window,corset,1.9271815e-06
+1676,window,stethoscope,1.9202066e-06
+1677,window,earplug,1.917542e-06
+1678,window,catapult,1.916522e-06
+1679,window,letter opener,1.9089482e-06
+1680,window,lamb chop,1.9048709e-06
+1681,window,water bottle,1.8901877e-06
+1682,window,waffle iron,1.887655e-06
+1683,window,tattoo,1.8767735e-06
+1684,window,bathrobe,1.8745019e-06
+1685,window,hotdog,1.8646633e-06
+1686,window,goat,1.842739e-06
+1687,window,bookmark,1.8385017e-06
+1688,window,muffin,1.8362553e-06
+1689,window,ski pole,1.832571e-06
+1690,window,tube top,1.8130389e-06
+1691,window,mongoose,1.7867561e-06
+1692,window,cilantro,1.7802689e-06
+1693,window,odometer,1.774147e-06
+1694,window,eel,1.7595381e-06
+1695,window,chopsticks,1.723223e-06
+1696,window,fire pit,1.7212586e-06
+1697,window,hippopotamus,1.7080398e-06
+1698,window,corsage,1.6984043e-06
+1699,window,banana peel,1.6972191e-06
+1700,window,fountain pen,1.646244e-06
+1701,window,ukulele,1.6418977e-06
+1702,window,peanut butter,1.588901e-06
+1703,window,fishing pole,1.5867417e-06
+1704,window,soy sauce,1.5825616e-06
+1705,window,metal detector,1.5794766e-06
+1706,window,showerhead,1.5759889e-06
+1707,window,diving board,1.5751264e-06
+1708,window,creme brulee,1.5649716e-06
+1709,window,briefcase,1.555882e-06
+1710,window,shopping basket,1.5408148e-06
+1711,window,hummus,1.524974e-06
+1712,window,appetizer,1.511229e-06
+1713,window,jumpsuit,1.4964799e-06
+1714,window,hot-water bottle,1.4962716e-06
+1715,window,sauce,1.4897247e-06
+1716,window,donut,1.4812784e-06
+1717,window,pantsuit,1.4712208e-06
+1718,window,extinguisher,1.4681513e-06
+1719,window,syrup,1.4436483e-06
+1720,window,hyena,1.412621e-06
+1721,window,cupcake,1.4038219e-06
+1722,window,giraffe,1.389241e-06
+1723,window,curling iron,1.378969e-06
+1724,window,headphones,1.3775284e-06
+1725,window,lingerie,1.3692271e-06
+1726,window,lipstick,1.3610123e-06
+1727,window,stir fry,1.3489432e-06
+1728,window,pinball,1.3449842e-06
+1729,window,tongue,1.3070116e-06
+1730,window,bungee,1.2987192e-06
+1731,window,taxi,1.295498e-06
+1732,window,unicycle,1.2788967e-06
+1733,window,fishnet stockings,1.2763526e-06
+1734,window,fondue,1.2714711e-06
+1735,window,dessert,1.2627705e-06
+1736,window,locker,1.2513935e-06
+1737,window,sparkler,1.2473402e-06
+1738,window,toothbrush,1.2315132e-06
+1739,window,hairpin,1.2281658e-06
+1740,window,ski lift,1.2087837e-06
+1741,window,shark,1.1880384e-06
+1742,window,bun,1.1871459e-06
+1743,window,skateboard,1.1324066e-06
+1744,window,ping-pong table,1.1248958e-06
+1745,window,urinal,1.1213441e-06
+1746,window,beachball,1.1173154e-06
+1747,window,croissant,1.1150204e-06
+1748,window,shopping cart,1.1097776e-06
+1749,window,leotard,1.1087811e-06
+1750,window,snowboard,1.1081426e-06
+1751,window,coffee bean,1.103635e-06
+1752,window,license plate,1.0924116e-06
+1753,window,swimming pool,1.0863362e-06
+1754,window,roller coaster,1.0862408e-06
+1755,window,airplane,1.0841751e-06
+1756,window,rickshaw,1.0707207e-06
+1757,window,hovercraft,1.0640878e-06
+1758,window,scarf,1.0590824e-06
+1759,window,tugboat,1.0305372e-06
+1760,window,balance beam,1.0169625e-06
+1761,window,kimono,1.0071315e-06
+1762,window,sunglasses,9.676145e-07
+1763,window,bobsled,9.584068e-07
+1764,window,sweatsuit,9.580413e-07
+1765,window,bologna,9.501977e-07
+1766,window,photo booth,9.3994475e-07
+1767,window,calzone,9.295489e-07
+1768,window,otter,9.2612095e-07
+1769,window,polo shirt,9.119523e-07
+1770,window,flatiron,9.037188e-07
+1771,window,rollerblade,8.740068e-07
+1772,window,humvee,8.708485e-07
+1773,window,backpack,8.4532974e-07
+1774,window,police car,8.271695e-07
+1775,window,duffel bag,8.1427163e-07
+1776,window,caviar,7.9468344e-07
+1777,window,seatbelt,7.894571e-07
+1778,window,bracelet,7.8707325e-07
+1779,window,bracelet,7.8707325e-07
+1780,window,wrist,7.8344345e-07
+1781,window,soldering iron,7.618579e-07
+1782,window,bandanna,7.346825e-07
+1783,window,go-kart,7.2443964e-07
+1784,window,stingray,6.9686354e-07
+1785,window,totem pole,6.711348e-07
+1786,window,sushi,6.7090764e-07
+1787,window,barcode,6.6288834e-07
+1788,window,mascara,6.6043054e-07
+1789,window,necklace,6.424009e-07
+1790,window,pepperoni,6.275831e-07
+1791,window,footrest,6.2267134e-07
+1792,window,omelet,5.8929726e-07
+1793,window,ferry,5.769741e-07
+1794,window,beanie,5.7588454e-07
+1795,window,cheeseburger,5.5953075e-07
+1796,window,helicopter,5.569668e-07
+1797,window,beanbag,5.5425653e-07
+1798,window,golf cart,5.3249994e-07
+1799,window,carousel,5.3165e-07
+1800,window,iceskate,5.312299e-07
+1801,window,milkshake,5.249583e-07
+1802,window,raft,5.165495e-07
+1803,window,star fruit,5.157944e-07
+1804,window,stapler,5.045519e-07
+1805,window,bok choy,4.868493e-07
+1806,window,smoothie,4.8124065e-07
+1807,window,braid,4.6893305e-07
+1808,window,lanyard,4.642249e-07
+1809,window,yacht,4.5895396e-07
+1810,window,mullet,4.5628218e-07
+1811,window,jump rope,4.388412e-07
+1812,window,tostada,4.3684153e-07
+1813,window,lollipop,4.29053e-07
+1814,window,cheesecake,4.2756534e-07
+1815,window,quesadilla,4.2049118e-07
+1816,window,warthog,4.1456076e-07
+1817,window,walrus,3.991532e-07
+1818,window,wetsuit,3.942938e-07
+1819,window,cruise ship,3.889698e-07
+1820,window,hot-air balloon,3.737487e-07
+1821,window,rollerskate,3.6496309e-07
+1822,window,medal,3.568921e-07
+1823,window,overalls,3.1954553e-07
+1824,window,polaroid,3.18471e-07
+1825,window,speedboat,3.15346e-07
+1826,window,flamethrower,3.1306985e-07
+1827,window,bikini,3.0892062e-07
+1828,window,mousepad,3.0843697e-07
+1829,window,measuring cup,2.964131e-07
+1830,window,birthday cake,2.8843985e-07
+1831,window,suspenders,2.827401e-07
+1832,window,anklet,2.7282724e-07
+1833,window,red carpet,2.7107092e-07
+1834,window,aircraft carrier,2.683158e-07
+1835,window,charger,2.6496915e-07
+1836,window,banana split,2.533371e-07
+1837,window,space shuttle,2.466771e-07
+1838,window,swimsuit,2.3422034e-07
+1839,window,cheetah,2.2268318e-07
+1840,window,trampoline,2.1992686e-07
+1841,window,jetski,2.0392214e-07
+1842,window,hot tub,1.7794905e-07
+1843,window,shuffleboard,1.7678092e-07
+1844,window,blimp,1.7092445e-07
+1845,window,penlight,1.0617993e-07
+1846,window,hookah,1.0169814e-07
+1847,window,forklift,8.500853e-08
+1848,window,airboat,6.009863e-08
+1849,window,headband,5.9401632e-08
+1850,window,ferris wheel,5.3603728e-08
+1851,window,seaplane,4.499411e-08
+1852,window,manatee,9.782262e-09
+1853,window,bolo tie,7.19249e-09
